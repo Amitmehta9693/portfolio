@@ -1,4 +1,4 @@
 # projectdemo
 this is my git repository.
-<br><hr>
+<br>
 author-Amit kumar mehta
