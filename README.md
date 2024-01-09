@@ -1,2 +1,2 @@
 # portfolio
-We are solving DSA problem
+this is my git repository.
